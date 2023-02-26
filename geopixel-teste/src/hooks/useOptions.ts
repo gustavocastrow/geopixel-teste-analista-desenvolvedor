@@ -1,5 +1,8 @@
 import { useState } from 'react'
-
+//hook customizado criado para extraiar a as lógicas de:
+//adicionar um item
+//limpar dropdown 
+//remover item
 export const useOptions = () => {
   const [options, setOptions] = useState<string[]>([])
 
