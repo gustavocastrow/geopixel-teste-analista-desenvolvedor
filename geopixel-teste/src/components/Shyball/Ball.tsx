@@ -34,7 +34,7 @@ export function Ball({onHover, height, left, top, width, stalker = false   }: Ba
           left,
           width,
           height,
-          background: "#F00",
+          background: "#FF6347",
           borderRadius: "100%",
           transition: "300ms",
           boxShadow: "0 0 10px 4px #CCC",

@@ -7,7 +7,7 @@ interface ShyBallProps {
   boxHeight: number;
   ballWidth: number;
   ballHeight: number;
-  stalker?: boolean
+  stalker?: boolean //clone que segue a bola vermelha caso seja true.
 }
 
 interface Position {
@@ -22,6 +22,7 @@ export function ShyBall({boxWidth, boxHeight, ballWidth, ballHeight, stalker= fa
     left: 0
   });
 
+  //função que gera uma nova posição para a bolinha na ação do hover.
   function handleNewPosition(){
     const newTopPosition = generateRandomNumber(0, boxHeight - ballHeight);
     const newLeftPosition = generateRandomNumber(0, boxHeight - ballWidth);
