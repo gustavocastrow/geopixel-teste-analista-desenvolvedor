@@ -1,0 +1,12 @@
+.clockContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: var(--green-primary);
+  height: 100%;
+}
+
+h1 {
+  color: var(--black-primary);
+}
+
