@@ -1,8 +1,8 @@
 #  🌐 Teste Geopixel: Analista Desenvolvedor
 
 ## Sobre o teste:
-  O teste consiste na criação de três aplicações utilizando `React`, e cada desafio posuí um nível de dificuldade
-   - Relógio: Com uma dificuldade considerada fácil, este problema irá julgar sua capacidade de manipulação e administração de estados simples.
+  O teste consiste na criação de três aplicações utilizando `React`, e cada desafio possuí um nível de dificuldade.
+   - Relógio: Com uma dificuldade considerada fácil, este problema irá julgar a sua capacidade de manipulação e administração de estados simples.
    - Seletor de itens: Em um nível moderado de dificuldade, sua capacidade de controlar estados compartilhados, eventos e relacionamento entre componentes da interface serão avaliados.
    - Bola tímida: Neste desafio de conhecimentos mais específicos, sua capacidade de controlar
 eventos específicos e como alterar estilos CSS dinamicamente será levado em consideração.
@@ -37,14 +37,14 @@ informando o que acabou de acontecer, como inserir um item na lista ou apagar um
   - Para executar a aplicação localmente vamos precisar ter o `NodeJS` instalado em nossa máquina, que pode ser baixado através do link: https://nodejs.org/en/
 
 ### II. Clonando repositório
-  - Devemos clonar o repositório para nossa máquina através do comando `git@github.com:gustavocastrow/geopixel-teste-analista-desenvolvedor.git`
+  - Devemos clonar o repositório para nossa máquina através do comando `git clone git@github.com:gustavocastrow/geopixel-teste-analista-desenvolvedor.git`
 
-### III. Acessando o projeto e instalando as depêndencias
+### III. Acessando o projeto e instalando as dependências
   - Após efetuar o clone do repositório devemos acessar a pasta `geopixel-teste` e executar o comando `npm install`
 
 ### IV. Subindo aplicação
-  - Depois da instalação das depêndencias ainda na pasta `geopixel-teste` devemos executar o comando `npm run dev`
+  - Depois da instalação das dependências ainda na pasta `geopixel-teste` devemos executar o comando `npm run dev`
 
 ### V. Acessando aplicação
-  - Após seguir todos os passos citados acima você podera acessar a aplicação através da URL `http://localhost:3001/`
+  - Após seguir todos os passos citados acima você poderá acessar a aplicação através da URL `http://localhost:3001/`
 
